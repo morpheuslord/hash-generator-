@@ -1,3 +1,17 @@
 # hash-generator-
-it can be used to check ur password hashes
-it has 14 types of hash converters
+it can be used to check ur password hashes.
+it has 14 types of hash converters:-
+ 1-'blake2b'
+ 2-'sha1'
+ 3-'sha224'
+ 4-'shake_256'
+ 5-'shake_128'
+ 6-'md5'
+ 7-'sha512'
+ 8-'sha384'
+ 9-'sha3_224'
+ 10-'sha3_384'
+ 11-'sha256'
+ 12-'sha3_512'
+ 13-'blake2s'
+ 14-'sha3_256'
