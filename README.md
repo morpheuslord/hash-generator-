@@ -15,3 +15,5 @@ it has 14 types of hash converters:-
  12-'sha3_512'
  13-'blake2s'
  14-'sha3_256'
+it is designed for wifi hacking and other wifi hacking related stuff like dictionary attack/bruit force attack etc.
+u can use the hash decoder also with this.
