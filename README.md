@@ -18,3 +18,8 @@ it has 14 types of hash converters:-
 it is designed for wifi hacking and other wifi hacking related stuff like dictionary attack/bruit force attack etc.
 u can use the hash decoder also with this.
 the hash identifier is from another github user which i have made into a zip file.
+**************************************************************************************
+**************************************************************************************
+**NOTE-THIS IS A USEFULL TOOL FOR PEOPLE NEW FOR HACKING AND ALL BUT U CAN DO BETTER**
+**************************************************************************************
+**************************************************************************************
