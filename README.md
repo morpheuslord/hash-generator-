@@ -17,3 +17,4 @@ it has 14 types of hash converters:-
  14-'sha3_256'
 it is designed for wifi hacking and other wifi hacking related stuff like dictionary attack/bruit force attack etc.
 u can use the hash decoder also with this.
+the hash identifier is from another github user which i have made into a zip file.
