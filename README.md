@@ -18,6 +18,8 @@ it has 14 types of hash converters:-
 it is designed for wifi hacking and other wifi hacking related stuff like dictionary attack/bruit force attack etc.
 u can use the hash decoder also with this.
 the hash identifier is from another github user which i have made into a zip file.
+**************************************************************************************
+**************************************************************************************
 # hash-identifier-
 this is an py programe of some other github user i dont know ur name man who ever u are thanks for ur program and keep rocking
 this program can identify any hash before py-verion-3.5
@@ -42,7 +44,12 @@ it can identify:-
 **NOTE-THIS IS A USEFULL TOOL FOR PEOPLE NEW FOR HACKING AND ALL BUT U CAN DO BETTER**
 **************************************************************************************
 **************************************************************************************
- 
+
+******************************************************************************************
+******************************************************************************************
+**NOTE-U CAN USE BOTH WITHOUT PY INSTALLED BY USING THE ZIP FILES AND USING THE APP FILE**
+******************************************************************************************
+******************************************************************************************
  
  
  
